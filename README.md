@@ -75,5 +75,5 @@ This project is open-source and available under the MIT License.
 
 👨‍💻 Author
 
-Lohith S
+Lohith S/
 Anu A
