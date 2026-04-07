@@ -252,26 +252,17 @@ http://127.0.0.1:5000/
 * Scikit-learn
 * HTML, CSS, JavaScript
 
----
 
-## 🤝 Contributing
 
-1. Fork the repository
-2. Create a new branch
-3. Commit changes
-4. Open a Pull Request
 
----
-
-## 📜 License
-
-This project is licensed under the **MIT License**.
 
 ---
 
 ## 👨‍💻 Author
 
 **Lohith**
+
+
 **Anu**
 
 
