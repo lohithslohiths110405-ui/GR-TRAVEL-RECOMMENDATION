@@ -26,30 +26,8 @@ It calculates emissions using predefined emission factors
 Formula used:
 Emission = Distance × Emission Factor
 The transport mode with the lowest emission is recommended
-📂 Project Structure
-GR-TRAVEL-RECOMMENDATION/
-│
-├── app/
-│   ├── app.py                 # Flask backend
-│   ├── templates/
-│   │   └── index.html        # Frontend UI
-│   └── static/
-│       ├── style.css
-│       └── script.js
-│
-├── data/
-│   └── routes_dataset.csv    # Travel routes dataset
-│
-├── models/
-│   └── emission_model.pkl    # Trained ML model (optional use)
-│
-├── notebooks/
-│   ├── EDA_and_Model_Training.ipynb
-│   └── ML_Pipeline.ipynb
-│
-├── streamlit_app.py          # Streamlit UI
-├── requirements.txt
-└── README.md
+
+
 ⚙️ Installation
 1. Clone the Repository
 git clone https://github.com/your-username/green-route.git
@@ -98,9 +76,7 @@ Pandas 📈
 NumPy
 Scikit-learn (for ML model)
 HTML, CSS, JavaScript
-📸 Screenshots (Optional)
 
-Add screenshots here if needed
 
 🔮 Future Enhancements
 🌍 Real-time route integration (Google Maps API)
