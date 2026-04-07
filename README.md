@@ -28,30 +28,7 @@ Emission = Distance × Emission Factor
 The transport mode with the lowest emission is recommended
 
 
-⚙️ Installation
-1. Clone the Repository
-git clone https://github.com/your-username/green-route.git
-cd green-route
-2. Create Virtual Environment (Optional but Recommended)
-python -m venv venv
-venv\Scripts\activate   # Windows
-source venv/bin/activate # Mac/Linux
-3. Install Dependencies
-pip install -r requirements.txt
-▶️ Running the Project
-🔹 Run Streamlit App
-streamlit run streamlit_app.py
-Opens in browser
-Interactive charts and UI
-🔹 Run Flask App
-cd app
-python app.py
-Open browser:
-http://127.0.0.1:5000/
 
-or ## Run Flask App
-cd app
-python app.py
 
 ## Run Streamlit
 streamlit run streamlit_app.py
