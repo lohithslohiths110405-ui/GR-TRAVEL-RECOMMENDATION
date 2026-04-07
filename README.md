@@ -260,9 +260,9 @@ http://127.0.0.1:5000/
 
 ## 👨‍💻 Author
 
-**Lohith**
+**Lohith.S**
 
 
-**Anu**
+**Anu.A**
 
 
