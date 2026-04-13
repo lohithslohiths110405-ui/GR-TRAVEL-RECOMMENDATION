@@ -36,3 +36,4 @@ jupyter notebook notebooks/GreenRoute_ML.ipynb
 ## Run Web App
 
 streamlit run app/streamlit_app.py
+https://gr-travel-recommendation-kg2nkf3usx6l6mboxqqh9u.streamlit.app/
